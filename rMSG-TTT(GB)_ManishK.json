@@ -1,0 +1,31 @@
+{
+    "file": "https://raw.githubusercontent.com/manishkhairnar3-stack/MSG-EPAM-TT_MANISH.K/refs/heads/main/MSG-TTT(GB)-Manish.K.csv",
+    "name": "rMSG-TTT(GB)_ManishK.json",
+    "header": 0,
+    "separator": ",",
+    "skip": 0,
+    "meta": [
+ 		{ "type": "id", "index": 0, "name": "Genes" },
+		{ "type": "realnumber", "index": 1, "name": "M_Log2FC" },
+		{ "type": "realnumber", "index": 2, "name": "S_Log2FC" },
+		{ "type": "realnumber", "index": 3, "name": "GB_log2FC" },
+		{ "type": "realnumber", "index": 4, "name": "TTT-GB-Log2fc" },
+		{ "type": "realnumber", "index": 5, "name": "Sham_C-1 Counts" },
+		{ "type": "realnumber", "index": 6, "name": "Sham_C-2 Counts" },
+		{ "type": "realnumber", "index": 7, "name": "Sham_C-3 Counts" },
+		{ "type": "realnumber", "index": 8, "name": "TT_Treatment-1 Counts" },
+		{ "type": "realnumber", "index": 9, "name": "TT_Treatment-2 Counts" },
+		{ "type": "realnumber", "index": 10, "name": "TT_Treatment-3 Counts" },
+		{ "type": "realnumber", "index": 11, "name": "GBT-P-adj" },
+		{ "type": "integer", "index": 12, "name": "MSG_Regulated" },
+		{ "type": "integer", "index": 13, "name": "Control_GB-TT-Exp" },
+		{ "type": "integer", "index": 14, "name": "Glioblastoma_TT-Exp" },
+		{ "type": "integer", "index": 15, "name": "GB-TT-Regulated" },
+		{ "type": "integer", "index": 16, "name": "GBT-UP" },
+		{ "type": "integer", "index": 17, "name": "GBT-DOWN" },
+		{ "type": "realnumber", "index": 18, "name": "GeneID" }
+    ],
+    "sets": [
+        { "format": "binary", "start": 12, "end": 17 }
+    ]
+}

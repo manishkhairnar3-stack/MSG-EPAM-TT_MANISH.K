@@ -92,7 +92,7 @@
 		{ "type": "integer", "index": 84, "name": "AC-Regulated" },
 		{ "type": "integer", "index": 85, "name": "Control-MC-exp" },
 		{ "type": "integer", "index": 86, "name": "MC-EXP" },
-		{ "type": "integer", "index": 87, "name": "MC-Regulated" },
+		{ "type": "integer", "index": 87, "name": "MC-Regulated" }
     ],
     "sets": [
         { "format": "binary", "start": 75, "end": 87 }
